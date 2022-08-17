@@ -5,14 +5,14 @@ During my downtime, I enjoy working on my own projects in the form of portfolios
 
 Currently I am:
 
-Enjoying the summer sun 🌞
-Studying Master's of Mathematics in Computer Engineering at the University of Waterloo
-Exploring new places!
+Enjoying the summer sun 🌞 <br />
+Studying Master's of Mathematics in Computer Engineering at the University of Waterloo <br />
+Exploring new places! <br />
 
 Previously I was:
 
-Working full time @HP Inc as a Software Developer 👩🏻‍💻
-Interning @HP Inc as a Software Developer 👩🏻‍💻
+Working full time @HP Inc as a Software Developer 👩🏻‍💻 <br />
+Interning @HP Inc as a Software Developer 👩🏻‍💻<br />
 
 Hit Me Up 💫
 If you’re interested in hearing more about any of the above shoot me an email. ✌🏼
